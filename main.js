@@ -368,5 +368,4 @@ compareForm.addEventListener('submit', (e)=>{
 
 })
 
-
 // document.getElementById('contact-frame').style.background='white';
